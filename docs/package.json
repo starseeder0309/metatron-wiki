@@ -1,0 +1,19 @@
+{
+  "name": "metatron-wiki",
+  "version": "0.0.1",
+  "description": "The Metatron Wiki is a wiki-style website where you can browse information related to Metatron service.",
+  "main": "index.js",
+  "authors": {
+    "name": "starseeder",
+    "email": "starseeder0309@gmail.com"
+  },
+  "repository": "https://github.com/starseeder0309/metatron-wiki/metatron-wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
